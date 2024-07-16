@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: nodesy-container  
-        image: 335871625378.dkr.ecr.eu-west-2.amazonaws.com/nodejswebapp:latest
+        image: 654654169595.dkr.ecr.eu-west-2.amazonaws.com/nodejs-july24:latest
         ports:
         - containerPort: 3000
 
